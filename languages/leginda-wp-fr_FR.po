@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Leginda Translations for WordPress\n"
+"POT-Creation-Date: 2016-11-28 10:10+0100\n"
+"PO-Revision-Date: 2016-11-28 10:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: leginda-wp.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/functions.php:393
+msgid "Translate to: "
+msgstr "Traduire:"
+
+#: inc/wp-categories.php:13 inc/wp-options.php:12 inc/wp-pages.php:12
+#: inc/wp-post.php:12 inc/wp-widgets.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: inc/wp-categories.php:24 leginda-wp.php:129
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/wp-categories.php:47 inc/wp-pages.php:68 inc/wp-pages.php:81
+#: inc/wp-post.php:68 inc/wp-post.php:82 inc/wp-widgets.php:63
+#: inc/wp-widgets.php:77
+msgid "Export and Download"
+msgstr "Exporter et Télécharger"
+
+#: inc/wp-options.php:19
+msgid "The easiest way to translate websites in more than 40 languages"
+msgstr ""
+"La façon la plus simple de traduire des sites web en plus de 40 langues!"
+
+#: inc/wp-options.php:25
+msgid "Advantages:"
+msgstr "Avantages:"
+
+#: inc/wp-options.php:27
+msgid "No machine translation"
+msgstr "Pas de traduction automatique"
+
+#: inc/wp-options.php:28
+msgid "More than 40 languages"
+msgstr "Plus de 40 langues disponibles"
+
+#: inc/wp-options.php:29
+msgid "Very easy text selection"
+msgstr "Sélectionner ses textes est très simple"
+
+#: inc/wp-options.php:30
+msgid "Importing translations via drag and drop with only one click"
+msgstr ""
+"Importation de la traduction en un clic par un simple glissement de fichier"
+
+#: inc/wp-options.php:31
+msgid "Translations performed by specialized native speakers"
+msgstr "Les contenus sont traduits par des locuteurs natifs spécialisés"
+
+#: inc/wp-options.php:32
+msgid ""
+"Connected translation memory (previous translations are automatically "
+"transferred)"
+msgstr ""
+"Mémoires de traduction liées (les traductions déjà existantes sont reconnues "
+"et automatiquement reprises)"
+
+#: inc/wp-options.php:33
+msgid "Discounts on 100% matches and repetitions"
+msgstr ""
+"Les correspondances de 100% ainsi que les répétitions te font bénéficier de "
+"rabais"
+
+#: inc/wp-options.php:34
+msgid "Translations according to DIN EN 17100"
+msgstr "Les traductions sont effectuées selon la norme DIN EN 17100"
+
+#: inc/wp-options.php:48
+msgid "How it works:"
+msgstr "Comment cela se passe:"
+
+#: inc/wp-options.php:53
+msgid "Choose the original documents as well as the source and target language"
+msgstr "Choisis les textes à traduire, leur langue source et leur langue cible"
+
+#: inc/wp-options.php:60
+msgid "Click export and download the files to your computer."
+msgstr "Exporte les textes au format ZIP"
+
+#: inc/wp-options.php:69
+msgid "Send the files to info@leginda.com or go to leginda.de"
+msgstr "Envoie cette archive ZIP à info@leginda.com"
+
+#: inc/wp-options.php:76
+msgid ""
+"As soon as the translation is completed, the translated texts are imported "
+"automatically by drag and drop into the right positions on the website."
+msgstr ""
+"Après traduction, les contenus traduits se placent automatiquement au bon "
+"endroit sur le site web via un glissement de fichier."
+
+#: inc/wp-options.php:80
+msgid ""
+"As a new customer of LEGINDA Business Translation you get a discount of € "
+"20,00 EUR, $ 22,00 US or £ 17,00 on your first order."
+msgstr ""
+"Lors de ta première commande chez LEGINDA Business Translation, bénéficie d"
+"´un rabais d´une valeur de 20 €, 22 US$ ou 17 £. "
+
+#: inc/wp-options.php:82
+msgid ""
+"For further information please visit our LEGINDA Business Translation "
+"website: www.leginda.de."
+msgstr "Pour plus d´informations, rendez-vous sur www.leginda.de."
+
+#: inc/wp-pages.php:34 inc/wp-post.php:34 inc/wp-widgets.php:39
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: inc/wp-pages.php:37 inc/wp-post.php:37 inc/wp-widgets.php:42
+msgid "Title"
+msgstr "Titre"
+
+#: inc/wp-pages.php:38 inc/wp-pages.php:58 inc/wp-post.php:38
+#: inc/wp-post.php:58
+msgid "See"
+msgstr "Voir"
+
+#: inc/wp-pages.php:39 inc/wp-pages.php:63 inc/wp-post.php:39
+#: inc/wp-post.php:63
+msgid "Edit"
+msgstr "Éditer"
+
+#: inc/wp-pages.php:40 inc/wp-post.php:40 inc/wp-widgets.php:44
+msgid "Download"
+msgstr "Télécharger"
+
+#: inc/wp-pages.php:41 inc/wp-post.php:41 inc/wp-widgets.php:45
+msgid "Word count"
+msgstr "Nombre de mots"
+
+#: inc/wp-pages.php:51 inc/wp-post.php:51 inc/wp-widgets.php:53
+msgid "Select"
+msgstr "SÉLECTIONNEZ (SELECT)"
+
+#: inc/wp-pages.php:86 inc/wp-post.php:87
+msgid "Import"
+msgstr "Importer"
+
+#: inc/wp-pages.php:91 inc/wp-post.php:92
+msgid "Drop files here or click to upload."
+msgstr "Glissez-déposez vos photos ici ou cliquez pour les charger"
+
+#: inc/wp-pages.php:92 inc/wp-post.php:93
+msgid "Files are uploaded to"
+msgstr ""
+
+#: inc/wp-upload.php:35
+#, php-format
+msgid "wp_upload_bits failed,  error: \"<strong>%s</strong>"
+msgstr ""
+
+#: inc/wp-widgets.php:43
+msgid "Content"
+msgstr ""
+
+#: leginda-wp.php:47
+msgid "Settings"
+msgstr "Configurations"
+
+#: leginda-wp.php:113
+msgid "Leginda"
+msgstr ""
+
+#: leginda-wp.php:117
+msgid "Posts"
+msgstr "Articles"
+
+#: leginda-wp.php:121
+msgid "Pages"
+msgstr "Pages"
+
+#: leginda-wp.php:125
+msgid "Widgets"
+msgstr "Widgets"
+
+#. Plugin Name of the plugin/theme
+msgid "LEGINDA WP Translate"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Export posts and pages and imports the translations, automatically creating "
+"a post with the translation."
+msgstr ""
+"Export messages et pages et importe les traductions, en créant "
+"automatiquement un post avec la traduction."
+
+#. Author of the plugin/theme
+msgid "Antonio Sanchez"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://asanchez.dev"
+msgstr ""
+
+#~ msgid "Leginda Export"
+#~ msgstr "Leginda Export"
